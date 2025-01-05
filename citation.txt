@@ -1,0 +1,6 @@
+@inproceedings{REPO042,
+    author = "Song, Hwanjun and Su, Hang and Shalyminov, Igor and Cai, Jason and Mansour, Saab",
+    booktitle = "ACL",
+    title = "{FineSurE: Fine-grained Summarization Evaluation using LLMs}",
+    year = "2024"
+}
