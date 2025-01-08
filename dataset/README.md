@@ -1,0 +1,4 @@
+- [frank/frank-data.json](https://github.com/DISL-Lab/FineSurE-ACL24/blob/main/dataset/frank/frank-data.json)
+- [realsumm/human-keyfact-list.json](https://github.com/DISL-Lab/FineSurE-ACL24/blob/main/dataset/realsumm/human-keyfact-list.json)
+- [realsumm/machine-keyfact-list-from-gpt4.json](https://github.com/DISL-Lab/FineSurE-ACL24/blob/main/dataset/realsumm/machine-keyfact-list-from-gpt4.json)
+- [realsumm/realsumm-data.json](https://github.com/DISL-Lab/FineSurE-ACL24/blob/main/dataset/realsumm/realsumm-data.json)

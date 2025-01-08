@@ -1,0 +1,64 @@
+{
+    "Faithfulness_Evaluation": {
+        "Sentence-level": {
+            "Balanced Accuracy": "84.0%"
+        },
+        "Summary-level": {
+            "Pearson": [
+                0.7995273469525122,
+                0.0
+            ],
+            "Spearman": [
+                0.807731539571887,
+                0.0
+            ]
+        },
+        "System-level": {
+            "Rank Correlation": [
+                0.9,
+                0.0009430623223403293
+            ]
+        },
+        "Success ratio": "",
+        "success_ratio": "97.5%"
+    },
+    "Completeness_Conciseness_Evaluation": {
+        "complete_eval": {
+            "Summary-level": {
+                "Pearson": [
+                    0.6270799325654057,
+                    2.7757988510133784e-270
+                ],
+                "Spearman": [
+                    0.610677939059207,
+                    1.2788796775753165e-252
+                ]
+            },
+            "System-level": {
+                "Rank Correlation": [
+                    0.9407692307692307,
+                    2.7329920722149496e-12
+                ]
+            }
+        },
+        "concise_eval": {
+            "Summary-level": {
+                "Pearson": [
+                    0.4504369423511537,
+                    8.393829399703727e-124
+                ],
+                "Spearman": [
+                    0.4203505843152211,
+                    1.990227348354664e-106
+                ]
+            },
+            "System-level": {
+                "Rank Correlation": [
+                    0.9,
+                    9.200044228411167e-10
+                ]
+            }
+        },
+        "success_ratio": "99.9%"
+    }
+}
